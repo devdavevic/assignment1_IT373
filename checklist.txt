@@ -1,0 +1,7 @@
+Environment Checklist
+----------------------
+[✓] Python version installed and verified
+[✓] Virtual environment (venv) created and activated
+[✓] Django installed and version checked
+[✓] runserver working and site accessible at http://127.0.0.1:8000/
+[✓] Git repository initialized and remote origin set
